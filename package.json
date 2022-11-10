@@ -13,7 +13,7 @@
   "author": "SEYI-JS",
   "license": "MIT",
   "dependencies": {
-    "electron": "^9.1.1"
+    "electron": "^18.3.7"
   },
   "devDependencies": {
     "electron-packager": "^15.0.0",
